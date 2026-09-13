@@ -1,8 +1,21 @@
-# Seedance Movie MCP / Seedance 视频生成 MCP
+<div align="center">
 
-Seedance Movie MCP is a local stdio MCP server for Volcengine Ark Seedance/Jimeng video generation. It turns a story or long text into scene prompts, runs bounded parallel video tasks, downloads clips, concatenates the result with ffmpeg, and writes a manifest that Codex or other video tools can use for later editing.
+# Seedance Movie MCP
 
-Seedance Movie MCP 是一个本地 stdio MCP Server，用于接入火山方舟 Seedance/即梦视频生成任务接口。它可以把剧情或长文本拆成分镜提示词，并行生成视频片段，下载 mp4，用 ffmpeg 拼接，并输出可交给 Codex 或其他视频插件继续剪辑的 manifest。
+**把故事拆成分镜，把生成片段接成视频。**  
+**Turn stories into scenes, and generated clips into video.**
+
+[快速开始 / Quick start](#quick-start--快速开始) · [GitHub](https://github.com/honestTai/seedance-movie-mcp) · [HRouter](https://hrouter.net/home)
+
+</div>
+
+从故事和长文本生成分镜计划，确认后运行有界并行任务，下载片段、拼接视频，并保留供后续剪辑使用的 manifest。
+
+Plan scenes from a story, approve the prompts, run bounded parallel tasks, download and assemble clips, and keep a manifest for further editing.
+
+**适合谁 / Who it’s for**  
+希望在 MCP 工作流中组织火山方舟视频生成任务的创作者与开发者。  
+Creators and developers orchestrating Volcengine Ark video generation through MCP.
 
 ## Highlights / 功能亮点
 
@@ -300,3 +313,16 @@ Test coverage includes runtime config parsing, Ark retry behavior, bounded paral
 ## License / 许可证
 
 MIT. See `LICENSE`. 中文非正式译文见 `LICENSE.zh-CN.md`。
+
+## 作者与 HRouter · About the author
+
+我是 **honestTai**，开发工具，也运营 [HRouter](https://hrouter.net/home)。这里持续分享实用代码、AI 应用、Skills 与插件，把工作中的需求变成可复用的项目。  
+I’m **honestTai**, the developer and operator behind HRouter. I share practical code, AI apps, skills, and plugins built around real workflows.
+
+本项目的视频生成使用火山方舟 API Key。对于 AI 编程和其他模型工作流，也欢迎了解作者运营的 HRouter 服务。  
+This video workflow uses a Volcengine Ark API key. For AI coding and other model workflows, explore HRouter, a separate service operated by honestTai.
+
+[了解 HRouter · Explore HRouter](https://hrouter.net/home) · [发现更多项目 · More projects](https://github.com/honestTai)
+
+**觉得有用，欢迎 Star；有想法，欢迎到 Issues 交流。**  
+**Star the project if it helps, and share your ideas in Issues.**
