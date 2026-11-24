@@ -7,7 +7,7 @@
 
 **Seedance Movie MCP.** Turn stories into scenes, and generated clips into video. Plan scenes from a story, approve the prompts, run bounded parallel tasks, download and assemble clips, and keep a manifest for further editing. Creators and developers orchestrating Volcengine Ark video generation through MCP.
 
-[HRouter](https://hrouter.net/home) · [GitHub](https://github.com/honestTai/seedance-movie-mcp) · [All public projects](https://github.com/honestTai)
+[HRouter](https://hrouter.net/) · [GitHub](https://github.com/honestTai/seedance-movie-mcp) · [All public projects](https://github.com/honestTai)
 
 **English** · [简体中文](README.zh-CN.md)
 
@@ -17,7 +17,7 @@
 
 | Sponsor | What it is |
 | :--- | :--- |
-| [![HRouter](docs/assets/hrouter-sponsor.svg)](https://hrouter.net/home) | **[HRouter](https://hrouter.net/home)**: model access, API key management, and usage tracking for AI coding and application development. Also operated by the maintainer. |
+| [![HRouter](docs/assets/hrouter-sponsor.svg)](https://hrouter.net/) | **[HRouter](https://hrouter.net/)**: pay-as-you-go AI coding API gateway — one API key for **Claude, OpenAI Codex / GPT, Google Gemini & DeepSeek** with live [Models & 24h Status](https://hrouter.net/models/), native setup for [Claude Code](https://hrouter.net/docs/claude-code/), [Codex CLI](https://hrouter.net/docs/codex/), [Gemini CLI](https://hrouter.net/docs/gemini-cli/) & [DeepSeek](https://hrouter.net/docs/deepseek/). Also operated by the maintainer. |
 
 ## Quick start
 
@@ -87,6 +87,6 @@ MIT. See [LICENSE](LICENSE). A non-authoritative Chinese translation is availabl
 
 <div align="center">
 
-Made by **[honestTai](https://github.com/honestTai)** · [HRouter](https://hrouter.net/home) · [More projects](https://github.com/honestTai)
+Made by **[honestTai](https://github.com/honestTai)** · [HRouter](https://hrouter.net/) · [More projects](https://github.com/honestTai)
 
 </div>
