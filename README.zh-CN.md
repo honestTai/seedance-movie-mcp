@@ -7,7 +7,7 @@
 
 **Seedance Movie MCP。** 把故事拆成分镜，把生成片段接成视频。从故事和长文本生成分镜计划，确认后运行有界并行任务，下载片段、拼接视频，并保留供后续剪辑使用的 manifest。希望在 MCP 工作流中组织火山方舟视频生成任务的创作者与开发者。
 
-[HRouter](https://hrouter.net/home) · [GitHub](https://github.com/honestTai/seedance-movie-mcp) · [All public projects](https://github.com/honestTai)
+[HRouter](https://hrouter.net/) · [GitHub](https://github.com/honestTai/seedance-movie-mcp) · [All public projects](https://github.com/honestTai)
 
 [English](README.md) · **简体中文**
 
@@ -17,7 +17,7 @@
 
 | 赞助商 | 简介 |
 | :--- | :--- |
-| [![HRouter](docs/assets/hrouter-sponsor.svg)](https://hrouter.net/home) | **[HRouter](https://hrouter.net/home)**：面向 AI 编程与应用开发的模型接入、API Key 管理与用量统计，也由作者运营。 |
+| [![HRouter](docs/assets/hrouter-sponsor.svg)](https://hrouter.net/) | **[HRouter](https://hrouter.net/)**：面向开发者的 AI 编程模型按量计费网关 —— 一把 API Key 直连 **Claude、OpenAI Codex / GPT、Google Gemini、DeepSeek**，零月费订阅，提供 [模型价格与 24h 实时状态](https://hrouter.net/models/)，一键接入 [Claude Code](https://hrouter.net/docs/claude-code/)、[Codex CLI](https://hrouter.net/docs/codex/)、[Gemini CLI](https://hrouter.net/docs/gemini-cli/) 与 [DeepSeek](https://hrouter.net/docs/deepseek/)。 |
 
 ## 快速开始
 
@@ -87,6 +87,6 @@ MIT. See `LICENSE`. 中文非正式译文见 `LICENSE.zh-CN.md`。
 
 <div align="center">
 
-Made by **[honestTai](https://github.com/honestTai)** · [HRouter](https://hrouter.net/home) · [More projects](https://github.com/honestTai)
+Made by **[honestTai](https://github.com/honestTai)** · [HRouter](https://hrouter.net/) · [More projects](https://github.com/honestTai)
 
 </div>
